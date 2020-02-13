@@ -13,6 +13,7 @@
 * Sort
   * [단어 정렬](https://www.acmicpc.net/problem/1181)
   * [수 정렬하기](https://www.acmicpc.net/problem/2750)
+  * [보물](https://www.acmicpc.net/problem/1026)
 
 * Search
   * [수 찾기](https://www.acmicpc.net/problem/1920)
