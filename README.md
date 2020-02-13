@@ -10,4 +10,12 @@
   * [이친수](https://www.acmicpc.net/problem/2193)
   * [1,2,3 더하기](https://www.acmicpc.net/problem/9095)
   
+* Sort
+  * [단어 정렬](https://www.acmicpc.net/problem/1181)
+  * [수 정렬하기](https://www.acmicpc.net/problem/2750)
+  * [보물](https://www.acmicpc.net/problem/1026)
+
+* Search
+  * [수 찾기](https://www.acmicpc.net/problem/1920)
+  
 ## [프로그래머스](https://programmers.co.kr/)
