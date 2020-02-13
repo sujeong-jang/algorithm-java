@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Num2026 {
+public class Num1026 {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
