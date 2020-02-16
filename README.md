@@ -9,13 +9,25 @@
   * [1로 만들기](https://www.acmicpc.net/problem/1463)
   * [이친수](https://www.acmicpc.net/problem/2193)
   * [1,2,3 더하기](https://www.acmicpc.net/problem/9095)
+  * [연속합](https://www.acmicpc.net/problem/9095)
   
 * Sort
   * [단어 정렬](https://www.acmicpc.net/problem/1181)
   * [수 정렬하기](https://www.acmicpc.net/problem/2750)
   * [보물](https://www.acmicpc.net/problem/1026)
+  * [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)
+  * [좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+  * [좌표 정렬하기2](https://www.acmicpc.net/problem/11651)
 
 * Search
   * [수 찾기](https://www.acmicpc.net/problem/1920)
+  
+* Math
+  * [정수 제곱근](https://www.acmicpc.net/problem/2417)
+  * [최대 공약수와 최소 공배수](https://www.acmicpc.net/problem/2609)
+  * [약수들의 합](https://www.acmicpc.net/problem/9506)
+  
+* Brute Force
+  * [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
   
 ## [프로그래머스](https://programmers.co.kr/)
