@@ -34,5 +34,3 @@
   * [N! mod P(1)](https://www.acmicpc.net/problem/17466)
   * [스택](https://www.acmicpc.net/problem/10828)
   * [큐](https://www.acmicpc.net/problem/10845)
-  
-## [프로그래머스](https://programmers.co.kr/)
