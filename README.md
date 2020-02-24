@@ -29,6 +29,9 @@
   
 * Brute Force
   * [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+* BFS/DFS
+  * [바이러스](https://www.acmicpc.net/problem/1606)
+  * [DFS와 BFS](https://www.acmicpc.net/problem/1260)
 
 * Etc
   * [N! mod P(1)](https://www.acmicpc.net/problem/17466)
