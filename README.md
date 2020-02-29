@@ -29,9 +29,16 @@
   
 * Brute Force
   * [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+  * [한수](https://www.acmicpc.net/problem/1025)
+  * [퇴사](https://www.acmicpc.net/problem/14501)
+  * [분해합](https://www.acmicpc.net/problem/2231)
+  * [블랙잭](https://www.acmicpc.net/problem/2798)
+  * [덩치](https://www.acmicpc.net/problem/7568)
+  
 * BFS/DFS
-  * [바이러스](https://www.acmicpc.net/problem/1606)
+  * [바이러스](https://www.acmicpc.net/problem/2606)
   * [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+  * [단지번호 붙이기](https://www.acmicpc.net/problem/2667) 
 
 * Etc
   * [N! mod P(1)](https://www.acmicpc.net/problem/17466)
