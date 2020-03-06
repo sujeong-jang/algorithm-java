@@ -38,7 +38,15 @@
 * BFS/DFS
   * [바이러스](https://www.acmicpc.net/problem/2606)
   * [DFS와 BFS](https://www.acmicpc.net/problem/1260)
-  * [단지번호 붙이기](https://www.acmicpc.net/problem/2667) 
+  * [단지번호 붙이기](https://www.acmicpc.net/problem/2667)
+  
+* String
+  * [알파벳 찾기](https://www.acmicpc.net/problem/10809)
+  * [단어의 개수](https://www.acmicpc.net/problem/1152)
+  * [단어 공부](https://www.acmicpc.net/problem/1157)
+  * [아스키코드](https://www.acmicpc.net/problem/11654)
+  * [상수](https://www.acmicpc.net/problem/2908)
+  * [다이얼](https://www.acmicpc.net/problem/5622)
 
 * Etc
   * [N! mod P(1)](https://www.acmicpc.net/problem/17466)
